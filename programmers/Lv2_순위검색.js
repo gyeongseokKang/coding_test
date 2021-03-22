@@ -7,6 +7,8 @@ function solution(info, query) {
   let answer = [];
   let userMap = new Map();
 
+  //user 정보를 첫째 문자만 뽑아다가 Map으로 만드는 함수
+  // key -> 조건4가지 , value -> 해당 조건에 맞는 사람들의 점수 배열
   for (let i = 0; i < info.length; i++) {
     let user = info[i].split(" ");
     let userkey = `${user[0][0]}${user[1][0]}${user[2][0].toUpperCase()}${user[3][0].toUpperCase()}`;
@@ -16,12 +18,16 @@ function solution(info, query) {
       userMap.set(userkey, [Number(user[4])]);
     }
   }
+  // 효율성을 위해 오름차순 정렬
   for (let [key, value] of userMap) {
     userMap.set(
       key,
       value.sort((a, b) => a - b)
     );
   }
+
+  // query를 수행하면서 query조건 key로 만든후 조회 시작
+  // key에 value를 가져오고 효율성 통과를 위해 정렬된 배열을 대상으로 특정 값 조회
   for (let i = 0; i < query.length; i++) {
     let count = 0;
     let condition = query[i].split(" ");
