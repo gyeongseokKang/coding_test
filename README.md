@@ -20,4 +20,5 @@
 
 ## leetCode
 
-🟢[JS][easy] 121. Best Time to Buy and Sell Stock - 동적계획법, 메모리제이션
+🟢[JS][easy] 121. Best Time to Buy and Sell Stock - 동적계획법, 메모리제이션  
+🟢[JS][easy] 746. Min Cost Climbing Stairs - 동적계획법, 메모리제이션
