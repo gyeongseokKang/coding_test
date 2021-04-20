@@ -16,8 +16,8 @@
 🟢[JS][lv2] 2020kakao\_문자열 압축 - 맵  
 🔴[JS][lv3] 2020kakao\_자물쇠와 열쇠 - 배열, 2차배열 복사, 배열 회전  
 🟢[JS][lv2] 2020kakao인턴십\_수식 최대화 - 순열조합, 정규식 split,replace  
-🔴[JS][lv3] DP*N으로 표현 - 동적계획법, Set  
-🟢[JV][lv3] DP*등굣길 - 자바  
+🔴[JS][lv3] DP\_N으로 표현 - 동적계획법, Set  
+🟢[JV][lv3] DP\_등굣길 - 자바  
 🟢[JV][lv3] DP\_정수 삼각형 - 자바
 
 ## leetCode
