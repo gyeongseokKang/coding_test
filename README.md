@@ -15,12 +15,13 @@
 🟢[JS][lv3] 해시\_베스트앨범 - 맵, 배열 메소드 체이닝  
 🟢[JS][lv2] 2020kakao\_문자열 압축 - 맵  
 🔴[JS][lv3] 2020kakao\_자물쇠와 열쇠 - 배열, 2차배열 복사, 배열 회전  
-🟢[JS][lv2] 2020kakao인턴십\_수식 최대화 - 순열조합, 정규식 split,replace  
+🟢[JS][lv2] 2020kakao인턴십\_수식 최대화 - 순열(permutation), 정규식 split,replace  
 🔴[JS][lv3] DP_N으로 표현 - 동적계획법, Set  
 🟢[JV][lv3] DP\_등굣길 - 자바  
 🟢[JV][lv3] DP\_정수 삼각형 - 자바  
 🟢[Js][lv2] 2019kakao인턴십\_튜플 - 배열 메소드, 배열 차집합, 배열에서 추가된 값 찾기  
-🟢[Js][lv3] 탐욕법\_단속카메라 - 배열 정렬
+🟢[Js][lv3] 탐욕법\_단속카메라 - 배열 정렬  
+🟢[Js][lv2] 2021kakao\_메뉴 리뉴얼 - 조합(combination), 맵
 
 ## leetCode
 
