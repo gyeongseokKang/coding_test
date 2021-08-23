@@ -27,7 +27,8 @@
 🟢[Js][lv2] 2018kakao\_파일명정렬 - array.sort 세부조건 구현, 문자열에서 숫자, 숫자 인덱스 뽑기  
 🟢[Js][lv2] 숫자의 표현 - 2중 for문, break  
 🟢[Js][lv2] 위클리 챌린지\_1주차 - 가우스  
-🟢[Js][lv2] 위클리 챌린지\_2주차 - 배열 min, max, unique 갯수
+🟢[Js][lv2] 위클리 챌린지\_2주차 - 배열 min, max, unique 갯수  
+🟢[Js][lv2] 위클리 챌린지\_4주차 - map를 활용한 갯수 파악, 비구조화 할당
 
 ## leetCode
 
