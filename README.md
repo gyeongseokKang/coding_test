@@ -28,9 +28,10 @@
 🟢[Js][lv2] 숫자의 표현 - 2중 for문, break  
 🟢[Js][lv2] 위클리 챌린지\_1주차 - 가우스  
 🟢[Js][lv2] 위클리 챌린지\_2주차 - 배열 min, max, unique 갯수  
-🟢[Js][lv2] 위클리 챌린지\_4주차 - map를 활용한 갯수 파악, 비구조화 할당
-🟢[Js][lv2] 2018kakao\_뉴스클러스터링 - 정규식(test, 영문자만 처리), splice로 배열 index 제거
-🟢[Js][lv2] 행렬의 곱셈 - 2차원 배열 생성, map, reduce
+🟢[Js][lv2] 위클리 챌린지\_4주차 - map를 활용한 갯수 파악, 비구조화 할당  
+🟢[Js][lv2] 2018kakao\_뉴스클러스터링 - 정규식(test, 영문자만 처리), splice로 배열 index 제거  
+🟢[Js][lv2] 행렬의 곱셈 - 2차원 배열 생성, map, reduce  
+🟢[Js][lv2] 땅따먹기 - 중복순열, 완전탐색
 
 ## leetCode
 
